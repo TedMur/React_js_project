@@ -54,9 +54,9 @@ Here's a blank template to get started:
 ### Built With
 
 * [React.js](https://reactjs.org)
-* [HTML5]
-* [CSS3]
-* [Bootstrap]
+* HTML5
+* CSS3
+* Bootstrap
 
 
 
