@@ -5,14 +5,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">First React.js App</h3>
-
+  <h1 align="center">First React.js App</h1>
+  <br />
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    This project contains a self-indtroduction and a couple of applications using API.
     <br />
     <a href="https://github.com/TedMur/React_js_project/tree/master/portfolio/src"><strong>Explore the docs »</strong></a>
     <br />
