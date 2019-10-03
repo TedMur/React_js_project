@@ -10,15 +10,8 @@
   <p align="center">
     This project contains a self-indtroduction and a couple of applications using API.
     <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
-    <p align="center">I am working on this project! Sorry for the inconvenience.</P>
+    <a href="https://github.com/TedMur/React_js_project/tree/master/portfolio"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo">View Demo</a><p>change URL after deployment</p>
-    ·
-    <a href="mailto:tatsuyamiyaji123@gmail.com">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
   </p>
 </p>
 
